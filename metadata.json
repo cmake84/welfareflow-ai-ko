@@ -1,0 +1,10 @@
+{
+  "name": "WelfareFlow AI",
+  "description": "사회복지사의 기록과 행정을 줄이고 이용인에게 집중할 수 있도록 돕는 One Input Multi Output AI 업무 자동화 플랫폼",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
